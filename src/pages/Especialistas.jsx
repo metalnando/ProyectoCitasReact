@@ -53,7 +53,7 @@ const dummySpecialists = [
   {
     id: 7,
     name: { first: "Valentina", last: "Silva" },
-    picture: "https://randomuser.me/api/portraits/women/7.jpg",
+    picture: "https://randomuser.me/api/portraits/women/8.jpg",
     specialty: "Implantes Dentales",
     experience: "15 años",
     email: "valentina.silva@example.com",
